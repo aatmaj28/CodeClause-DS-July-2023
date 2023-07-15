@@ -1,0 +1,1 @@
+streamlit run "C:\dev-Projects\Disease Prediction System\disease pred.py"
